@@ -1,3 +1,3 @@
-# angular-mqauhj
+# Angular Sample Project
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-mqauhj)
